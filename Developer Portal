@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROPLAYER 95220 | Developer Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #000000; color: white; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center p-6">
+    
+    <div class="max-w-md w-full bg-zinc-900 border border-zinc-800 rounded-3xl shadow-2xl p-10 text-center">
+        <!-- Logo Icon -->
+        <div class="w-20 h-20 bg-red-600 rounded-2xl flex items-center justify-center text-3xl font-black mx-auto mb-6 rotate-3 shadow-lg">
+            PP
+        </div>
+        
+        <h1 class="text-3xl font-black tracking-tight mb-1 italic uppercase">PROPLAYER 95220</h1>
+        <p class="text-zinc-500 font-bold mb-10 uppercase tracking-[0.2em] text-[10px]">Official App Developer</p>
+
+        <div class="space-y-3">
+            <!-- App Card -->
+            <div class="bg-black/50 p-6 rounded-2xl border border-zinc-800">
+                <h2 class="text-lg font-black mb-6 uppercase tracking-tight italic">FLAPPY STRANGER</h2>
+                
+                <div class="flex flex-col gap-3">
+                    <a href="privacy.html" class="w-full py-3 bg-zinc-800 hover:bg-zinc-700 border border-zinc-700 rounded-xl transition-all font-black text-[11px] uppercase tracking-widest text-zinc-300">
+                        Privacy Policy
+                    </a>
+                    <a href="mailto:ajapalchouhan94@gmail.com" class="w-full py-3 bg-red-700 hover:bg-red-600 rounded-xl transition-all font-black text-[11px] uppercase tracking-widest text-white">
+                        Support Contact
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-10 opacity-30">
+            <p class="text-[9px] font-bold uppercase tracking-widest">
+                Verified: ajapalchouhan94@gmail.com
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
